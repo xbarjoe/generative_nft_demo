@@ -7,7 +7,7 @@ import os
 import random
 
 #local directories for assets
-base = r"C:\Users\Stephen\Documents\Saturna\dev\generative_nft\images\\"
+base = r".\images\\"
 head_dir = base+"head\\"
 bg_dir = base+"bg\\"
 mouth_dir = base+"mouth\\"
